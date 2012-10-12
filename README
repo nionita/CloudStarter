@@ -1,0 +1,14 @@
+This project is now in pre-alpha!
+
+The intent is to create a few python scripts which work together to
+manage an AWS cloud to solve suitable tasks.
+
+There will be scripts:
+- which work only locally (on a windows workstation)
+- which will work remote (i.e. on the started cloud)
+
+The tasks will have a configuration which will permit CloudStarter to
+install whatever is needed on the started servers in order to solve the problem.
+
+Further there will be scripts which solve issues like management (in contrast
+to worker scripts), again both on workstation and servers.
